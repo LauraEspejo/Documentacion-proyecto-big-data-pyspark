@@ -1,7 +1,7 @@
 # Evidencias del proceso en Colab
 
 ## 1. Carga de archivos de entrada
-![Carga de archivos](imagenes/captura_1_inputs.png)
+![Carga de archivos](docs/imagenes/captura_1_inputs.png)
 
 En esta evidencia se observa la carga de los archivos `sales_clean.csv` y `specs_clean.csv`, que sirven como base para el proceso de integración.
 

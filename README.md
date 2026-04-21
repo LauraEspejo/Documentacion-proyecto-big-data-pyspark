@@ -111,13 +111,7 @@ Este archivo representa la versión procesada final del dataset en Colab.
 4. Descargar los archivos generados:
    - `dataset_final_merged_v2.csv`
    - `dataset_processed_colab.csv`
-
-## Limitaciones
-- El script depende de Google Colab por el uso de `files.upload()`.
-- El archivo exportado contiene bloques repetidos propios del trabajo interactivo en notebook.
-- Algunas coincidencias entre modelos fueron corregidas manualmente.
-- El script no está modularizado en funciones.
-
+   
 ## Posibles mejoras
 - convertir el notebook en funciones reutilizables
 - separar limpieza, merge y análisis en scripts diferentes
@@ -125,4 +119,6 @@ Este archivo representa la versión procesada final del dataset en Colab.
 - automatizar las homologaciones de nombres de modelos
 
 ## Autor
-Tu nombre
+Laura Daniela Espejo Parada 
+Yuli Valentina Andrade
+Juan Francisco Prieto
